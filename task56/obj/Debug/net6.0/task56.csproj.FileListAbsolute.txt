@@ -1,0 +1,15 @@
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/bin/Debug/net6.0/task56
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/bin/Debug/net6.0/task56.deps.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/bin/Debug/net6.0/task56.runtimeconfig.json
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/bin/Debug/net6.0/task56.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/bin/Debug/net6.0/task56.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.csproj.AssemblyReference.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.AssemblyInfoInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.AssemblyInfo.cs
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.csproj.CoreCompileInputs.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/refint/task56.dll
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.pdb
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/task56.genruntimeconfig.cache
+/Users/andzur/Desktop/Алсу/ГИК БРЕЙНС/DZ8C/task56/obj/Debug/net6.0/ref/task56.dll
