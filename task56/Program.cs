@@ -59,25 +59,29 @@ void PrintArray(int[] arr)
     Console.WriteLine("]");
 }
 
-int MinSumRow(int[] arr)
+int MinimalSumRowNumber(int[] arr)
 {
     int minElem = arr[0];
     int minSumRowNum = 0;
     for (int i = 1; i < arr.Length; i++)
     {
         if (arr[i] < minElem)
+        {
             minElem = arr[i];
-        minSumRowNum = i;
+            minSumRowNum = i;
+        }
     }
+
     return minSumRowNum;
+
 }
 
-int[,] array2D = CreateMatrixRndInt(3, 4, 1, 10);
+int[,] array2D = CreateMatrixRndInt(5, 6, 1, 10);
 PrintMatrix(array2D);
 
 int[] rowElemSum = RowElemSum(array2D);
 PrintArray(rowElemSum);
 
-int minSumRow = MinSumRow(rowElemSum);
-Console.WriteLine($"Номер строки с наименьшей суммой элементов: {minSumRow} строка");
+int minSumRow = MinimalSumRowNumber(rowElemSum);
+Console.WriteLine($"Номер строки с наименьшей суммой элементов: {minSumRow + 1} строка");
 
